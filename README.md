@@ -1,2 +1,2 @@
- # VR-VT
-I made this project to fulfill one of my customer's requests
+ # College Vr Tour
+Virtual reality tour on my college
